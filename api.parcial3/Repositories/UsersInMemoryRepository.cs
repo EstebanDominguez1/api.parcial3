@@ -10,7 +10,7 @@ public class UsersInMemoryRepository : IUserRepository
         new()
         {
             Id       = 1,
-            Fullname = "Esteba Dominguez",
+            Fullname = "Esteban Dominguez",
             Username = "e.dominguez",
             Password = "123456"
         }
